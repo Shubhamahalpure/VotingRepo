@@ -16,178 +16,134 @@ public class BaseClass {
 	public String confirmPass="12345678";
 	
 	//Mails
-   
-	public String mail1 = "camp011@mailinator.com";
-	public String mailinator1="camp011";
-	public String FirstName1 = "pta";
-	public String LastName1="ltd";
-	
-	public String mail2 = "camp021@mailinator.com";
-	public String mailinator2="camp021";
-	public String FirstName2 = "wer";
-	public String LastName2="bcv";
-	
-	public String mail3 = "camp031@mailinator.com";
-	public String mailinator3="camp031";
-	public String FirstName3 = "asd";
-	public String LastName3="cvb";
-	
-	public String mail4 = "camp041@mailinator.com";
-	public String mailinator4="camp041";
-	public String FirstName4 = "dfg";
-	public String LastName4="vbc";
-	
-	public String mail5 = "camp051@mailinator.com";
-	public String mailinator5="camp051";
-	public String FirstName5 = "wet";
-	public String LastName5="jhg";
-	
-	public String mail6 = "camp06@mailinator.com";
-	public String mailinator6="camp06";
-	
-	public String mail7 = "camp07@mailinator.com";
-	public String mailinator7="camp07";
-	
-	public String mail8 = "camp08@mailinator.com";
-	public String mailinator8="camp08";
-	
-	public String mail9 = "camp09@mailinator.com";
-	public String mailinator9="camp09";
-	
-	public String mail10 = "camp101@mailinator.com";
-	public String mailinator10="camp101";
-	
-	public String mail11 = "camp111@mailinator.com";
-	public String mailinator11="camp111";
-	
-	public String mail12 = "camp12@mailinator.com";
-	public String mailinator12="camp12";
-	
-	public String mail13 = "camp13@mailinator.com";
-	public String mailinator13="camp13";
-	
-	public String mail14 = "camp141@mailinator.com";
-	public String mailinator14="camp141";
-	
-	public String mail15 = "camp15@mailinator.com";
-	public String mailinator15="camp15";
-	
-	public String mail16 = "camp16@mailinator.com";
-	public String mailinator16="camp16";
-	
-	public String mail17 = "camp17@mailinator.com";
-	public String mailinator17="camp17";
-	
-	public String mail18 = "camp180@mailinator.com";
-	public String mailinator18="camp180";
-	
-	public String mail19 = "camp191@mailinator.com";
-	public String mailinator19 ="camp191";
-	
-	public String mail20 = "camp20@mailinator.com";
-	public String mailinator20="camp20";
-	
-	public String mail21 = "camp21@mailinator.com";
-	public String mailinator21="camp21";
-	
-	public String mail22 = "camp22@mailinator.com";
-	public String mailinator22="camp22";
-	
-	public String mail23 = "camp23@mailinator.com";
-	public String mailinator23="camp23";
-	
-	public String mail24 = "camp24@mailinator.com";
-	public String mailinator24="camp24";
-	
-	public String mail25 = "camp25@mailinator.com";
-	public String mailinator25="camp25";
-	
-	public String mail26 = "camp26@mailinator.com";
-	public String mailinator26="camp26";
-	
-	public String mail27 = "camp27@mailinator.com";
-	public String mailinator27="camp27";
-	
-	public String mail28 = "camp28@mailinator.com";
-	public String mailinator28="camp28";
-	
-	public String mail29 = "camp29@mailinator.com";
-	public String mailinator29="camp29";
-	
-	public String mail30 = "camp30@mailinator.com";
-	public String mailinator30="camp30";
-	
-	public String mail31 = "camp31@mailinator.com";
-	public String mailinator31="camp31";
-	
-	public String mail32 = "camp32@mailinator.com";
-	public String mailinator32="camp32";
-	
-	public String mail33 = "camp33@mailinator.com";
-	public String mailinator33="camp33";
-	
-	public String mail34 = "camp34@mailinator.com";
-	public String mailinator34="camp34";
-	
-	public String mail35 = "camp35@mailinator.com";
-	public String mailinator35="camp35";
-	
-	public String mail36 = "camp36@mailinator.com";
-	public String mailinator36="camp36";
-	
-	public String mail37 = "camp37@mailinator.com";
-	public String mailinator37="camp37";
-	
-	public String mail38 = "camp38@mailinator.com";
-	public String mailinator38="camp38";
-	
-	public String mail39 = "camp39@mailinator.com";
-	public String mailinator39="camp39";
-	
-	public String mail40 = "camp40@mailinator.com";
-	public String mailinator40="camp40";
-	
-	public String mail41 = "camp41@mailinator.com";
-	public String mailinator41="camp41";
-	
-	public String mail42 = "camp42@mailinator.com";
-	public String mailinator42="camp42";
-	
-	public String mail43 = "camp43@mailinator.com";
-	public String mailinator43="camp43";
-	
-	public String mail44 = "camp44@mailinator.com";
-	public String mailinator44="camp44";
-	
-	public String mail45 = "camp451@mailinator.com";
-	public String mailinator45="camp451";
-	
-	public String mail46 = "camp46@mailinator.com";
-	public String mailinator46="camp46";
-	
-	public String mail47 = "camp47@mailinator.com";
-	public String mailinator47="camp47";
-	
-	public String mail48 = "camp48@mailinator.com";
-	public String mailinator48="camp48";
-	
-	public String mail49 = "camp49@mailinator.com";
-	public String mailinator49="camp49";
-	
-	public String mail50 = "camp501@mailinator.com";
-	public String mailinator50="camp501";
-	
-	
-	
-	
-	
-	
 
+	public String mail1 = "ring100@mailinator.com";
+	public String mailinator1="ring100";
+	public String FirstName1 = "ann";
+	public String LastName1="joy";
+	
+	public String mail2 = "ring21@mailinator.com";
+	public String mailinator2="ring21";
+	public String FirstName2 = "ammy";
+	public String LastName2="hillson";
+	
+	public String mail3 = "ring031@mailinator.com";
+	public String mailinator3="ring031";
+	public String FirstName3 = "anthony";
+	public String LastName3="hordy";
+	
+	public String mail4 = "ring041@mailinator.com";
+	public String mailinator4="ring041";
+	public String FirstName4 = "tom";
+	public String LastName4="s";
+	
+	public String mail5 = "ring051@mailinator.com";
+	public String mailinator5="ring051";
+	public String FirstName5 = "aimy";
+	public String LastName5="jo";
+	
+	public String mail6 = "ring06@mailinator.com";
+	public String mailinator6="ring06";
+	public String FirstName6 = "andy";
+	public String LastName6="karl";
+	
+	public String mail7 = "ring07@mailinator.com";
+	public String mailinator7="ring07";
+	public String FirstName7 = "phillip";
+	public String LastName7="h";
+
+	public String mail8 = "ring08@mailinator.com";
+	public String mailinator8="ring08";
+	public String FirstName8 = "andru";
+	public String LastName8="bint";
+	
+	public String mail9 = "ring091@mailinator.com";
+	public String mailinator9="ring091";
+	public String FirstName9 = "laura";
+	public String LastName9="lily";
+	
+	public String mail10 = "ring101@mailinator.com";
+	public String mailinator10="ring101";
+	public String FirstName10 = "robin";
+	public String LastName10="simson";
+	
+	public String mail11 = "ring123@mailinator.com";
+	public String mailinator11="ring123";
+	public String FirstName11 = "church";
+	public String LastName11="will";
+	
+	public String mail12 = "ring12@mailinator.com";
+	public String mailinator12="ring12";
+	public String FirstName12 = "weignberg";
+	public String LastName12="zod";
+	
+	public String mail13 = "ring13@mailinator.com";
+	public String mailinator13="ring13";
+	public String FirstName13 = "reilly";
+	public String LastName13="halfman";
+	
+	public String mail14 = "ring141@mailinator.com";
+	public String mailinator14="ring141";
+	public String FirstName14 = "annalisa";
+	public String LastName14="peter";
+	
+	public String mail15 = "ring15@mailinator.com";
+	public String mailinator15="ring15";
+	public String FirstName15 = "white";
+	public String LastName15="j";
+	
+	public String mail16 = "ring16@mailinator.com";
+	public String mailinator16="ring16";
+	public String FirstName16 = "june";
+	public String LastName16="thom";
+	
+	public String mail17 = "ring17@mailinator.com";
+	public String mailinator17="ring17";
+	public String FirstName17 = "elise";
+	public String LastName17="b";
+	
+	public String mail18 = "ring180@mailinator.com";
+	public String mailinator18="ring180";
+	public String FirstName18 = "angel";
+	public String LastName18="church";
+	
+	public String mail19 = "ring191@mailinator.com";
+	public String mailinator19 ="ring191";
+	public String FirstName19 = "quijano";
+	public String LastName19="jo";
+	
+	public String mail20 = "ring20@mailinator.com";
+	public String mailinator20="ring20";
+	public String FirstName20 = "paris";
+	public String LastName20="bell";
+	
+	public String mail21 = "ring211@mailinator.com";
+	public String mailinator21="ring211";
+	public String FirstName21 = "cuevas";
+	public String LastName21="b";
+	
+	public String mail22 = "ring22@mailinator.com";
+	public String mailinator22="ring22";
+	public String FirstName22 = "braddy";
+	public String LastName22="craft";
+	
+	public String mail23 = "ring231@mailinator.com";
+	public String mailinator23="ring231";
+	public String FirstName23 = "anthon";
+	public String LastName23="marchello";
+	
+	public String mail24 = "ring24@mailinator.com";
+	public String mailinator24="ring24";
+	public String FirstName24 = "neilson";
+	public String LastName24="milly";
+	
+	public String mail25 = "ring25@mailinator.com";
+	public String mailinator25="ring25";
+	public String FirstName25 = "april";
+	public String LastName25="brown";
 	
 	
-	
-	
-   public static WebDriver driver;
+	 public static WebDriver driver;
 
 	@BeforeClass
 	public void setUp() {

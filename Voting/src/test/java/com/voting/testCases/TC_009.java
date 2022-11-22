@@ -26,8 +26,8 @@ public class TC_009 extends BaseClass {
 		cp.clickOnSignup();
 		cp.clickOnSubmit();
 
-		cp.enterFirstName(FirstName);
-		cp.enterLastName(LastName);
+		cp.enterFirstName(FirstName9);
+		cp.enterLastName(LastName9);
 		cp.enterPassword(pass);
 		cp.enterConfirmPassword(confirmPass);
 		cp.clickMovingOn();
@@ -35,6 +35,7 @@ public class TC_009 extends BaseClass {
 		// switch to mailinator tab
 		driver.switchTo().newWindow(WindowType.TAB);
 		driver.get(urlmailinator);
+		Thread.sleep(2000);
 
 		cp.clearMailinator();
 		Thread.sleep(2000);

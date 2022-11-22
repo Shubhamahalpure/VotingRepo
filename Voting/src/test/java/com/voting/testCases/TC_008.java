@@ -26,8 +26,8 @@ public class TC_008 extends BaseClass {
 		cp.clickOnSignup();
 		cp.clickOnSubmit();
 
-		cp.enterFirstName(FirstName);
-		cp.enterLastName(LastName);
+		cp.enterFirstName(FirstName8);
+		cp.enterLastName(LastName8);
 		cp.enterPassword(pass);
 		cp.enterConfirmPassword(confirmPass);
 		cp.clickMovingOn();

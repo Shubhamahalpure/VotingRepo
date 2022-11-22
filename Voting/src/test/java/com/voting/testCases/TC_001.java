@@ -35,9 +35,10 @@ public class TC_001 extends BaseClass {
 		// switch to mailinator tab
 		driver.switchTo().newWindow(WindowType.TAB);
 		driver.get(urlmailinator);
+		Thread.sleep(2000);
 
 		cp.clearMailinator();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		cp.enterMailinator(mailinator1);
 		cp.clickGoBtn();
 		cp.openMail();

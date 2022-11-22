@@ -3,13 +3,13 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.voting.testCases.TC_050">
+      <class name="com.voting.testCases.TC_011">
         <methods>
-          <include name="test"/>
           <include name="tearDown"/>
+          <include name="test"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.voting.testCases.TC_050 -->
+      </class> <!-- com.voting.testCases.TC_011 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
